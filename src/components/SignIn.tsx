@@ -9,13 +9,13 @@ const SignIn = () => {
         <Icons.logo className="mx-auto h-6 w-6" />
         <h1 className="text-2xl font-semibold  tracking-tight">Welcome back</h1>
         <p className="text-sm max-w-xs mx-auto">
-          By continuing, you are setting up a Threadit account and agree to our
+          By continuing, you are setting up a Redito account and agree to our
           User Agreement and Privacy Policy.
         </p>
 
         <UserAuthForm />
         <p className="px-8 text-center text-sm text-zinc-700">
-          New to Threadit?{' '}
+          New to Redito?{' '}
           <Link
             href="/sign-up"
             className="hover:text-zinc-800 text-sm underline underline-offset-4"

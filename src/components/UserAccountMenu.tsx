@@ -41,6 +41,9 @@ const UserAccountMenu: React.FC<UserAccountProps> = ({ user }) => {
           <Link href="/">Feed</Link>
         </DropdownMenuItem>
         <DropdownMenuItem asChild>
+          <Link href="/explore">Explore</Link>
+        </DropdownMenuItem>
+        <DropdownMenuItem asChild>
           <Link href="/r/create">Create community</Link>
         </DropdownMenuItem>
         <DropdownMenuItem asChild>

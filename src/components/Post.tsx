@@ -59,7 +59,7 @@ const Post: React.FC<PostProps> = ({
             </h1>
           </a>
           <div
-            className="relative text-sm max-h-40 w-full overflow-clip"
+            className="relative  text-sm max-h-40 w-full overflow-clip"
             ref={pRef}
           >
             <EditorOutput content={post.content} />

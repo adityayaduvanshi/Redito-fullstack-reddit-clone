@@ -11,7 +11,7 @@ const SignUp = () => {
           Join us today
         </h1>
         <p className="text-sm max-w-xs mx-auto">
-          By continuing, you are setting up a Threadit account and agree to our
+          By continuing, you are setting up a Redito account and agree to our
           User Agreement and Privacy Policy.
         </p>
 
