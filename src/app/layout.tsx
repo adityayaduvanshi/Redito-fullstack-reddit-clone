@@ -32,6 +32,9 @@ export default function RootLayout({
         inter.className
       )}
     >
+      <head>
+  <meta name="google-site-verification" content="WEoZUu4Alv9sBdGpdRVcHJNh1mBkElq_fyTX0XkyAvI" />
+      </head>
       <body className="min-h-screen pt-12  bg-slate-50 antialiased">
         <Providers>
           {/* @ts-expect-error server component */}
